@@ -5,7 +5,7 @@ cybersecurity, artificial intelligence, agile delivery, and cloud
 engineering.
 
 ## Live Site
-https://kunboli.github.io
+https://kunboli.github.io/Tech_Portfolio
 
 ## About
 This portfolio was built as a single-page HTML/CSS/JS application 
